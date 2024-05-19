@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Event Hub](https://github.com/muhd-nish4d/event_management)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently working as a **Flutter Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhd-nish4d?tab=repositories](https://github.com/muhd-nish4d?tab=repositories)
 
